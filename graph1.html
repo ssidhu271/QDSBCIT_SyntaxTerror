@@ -65,13 +65,16 @@
 
         let initStr = "datapoints["
         let initstr2 = "].Initial Release";
+        let pubStr2 = "].Publisher(s)";
+        let genStr2 = "].Genre(s)";
         
         for (i = 0; i < datapoints.length; i++) {
             game.push(datapoints[i].Game);
             revenue.push(datapoints[i].Revenue);
             initRelease.push(initStr + i + initstr2);
             //initRelease.push(datapoints[i]."Initial\sRelease");
-            //pubs.push(datapoints.Genres;
+            pubs.push(initStr + i + pubStr2);
+            genre.push(initStr + i + genStr2);
         }
 
         // setup 
