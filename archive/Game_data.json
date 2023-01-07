@@ -2,729 +2,729 @@
   {
     "Game": "Honor of Kings / Arena of Valor",
     "Revenue": 14667500000,
-    "Initial release": "2015-11-26",
-    "Publisher(s)": "Tencent Games",
-    "Genre(s)": "MOBA"
+    "Initial_release": "2015-11-26",
+    "Publisher": "Tencent Games",
+    "Genre": "MOBA"
   },
   {
     "Game": "Monster Strike",
     "Revenue": 10000000000,
-    "Initial release": "2013-08-08",
-    "Publisher(s)": "Mixi",
-    "Genre(s)": "Puzzle / RPG / Strategy"
+    "Initial_release": "2013-08-08",
+    "Publisher": "Mixi",
+    "Genre": "Puzzle / RPG / Strategy"
   },
   {
     "Game": "PUBG Mobile",
     "Revenue": 9000000000,
-    "Initial release": "2018-03-19",
-    "Publisher(s)": "Tencent Games / Krafton / VNG Games",
-    "Genre(s)": "Battle royale"
+    "Initial_release": "2018-03-19",
+    "Publisher": "Tencent Games / Krafton / VNG Games",
+    "Genre": "Battle royale"
   },
   {
     "Game": "Puzzle & Dragons",
     "Revenue": 8578340000,
-    "Initial release": "2012-02-20",
-    "Publisher(s)": "GungHo Online Entertainment",
-    "Genre(s)": "RPG / Puzzle"
+    "Initial_release": "2012-02-20",
+    "Publisher": "GungHo Online Entertainment",
+    "Genre": "RPG / Puzzle"
   },
   {
     "Game": "Clash of Clans",
     "Revenue": 8000000000,
-    "Initial release": "2012-08-02",
-    "Publisher(s)": "Supercell (Tencent)",
-    "Genre(s)": "Strategy"
+    "Initial_release": "2012-08-02",
+    "Publisher": "Supercell (Tencent)",
+    "Genre": "Strategy"
   },
   {
     "Game": "Pokémon Go",
     "Revenue": 7760000000,
-    "Initial release": "2016-07-06",
-    "Publisher(s)": "Niantic / The Pokémon Company",
-    "Genre(s)": "Augmented reality"
+    "Initial_release": "2016-07-06",
+    "Publisher": "Niantic / The Pokémon Company",
+    "Genre": "Augmented reality"
   },
   {
     "Game": "Candy Crush Saga",
     "Revenue": 7456000000,
-    "Initial release": "2012-11-14",
-    "Publisher(s)": "King (Activision Blizzard)",
-    "Genre(s)": "Puzzle"
+    "Initial_release": "2012-11-14",
+    "Publisher": "King (Activision Blizzard)",
+    "Genre": "Puzzle"
   },
   {
     "Game": "Fate/Grand Order",
     "Revenue": 6300000000,
-    "Initial release": "2015-07-30",
-    "Publisher(s)": "Aniplex (Sony Music Entertainment Japan)",
-    "Genre(s)": "RPG"
+    "Initial_release": "2015-07-30",
+    "Publisher": "Aniplex (Sony Music Entertainment Japan)",
+    "Genre": "RPG"
   },
   {
     "Game": "Fantasy Westward Journey",
     "Revenue": 4700000000,
-    "Initial release": "2015-03-26",
-    "Publisher(s)": "NetEase",
-    "Genre(s)": "MMORPG"
+    "Initial_release": "2015-03-26",
+    "Publisher": "NetEase",
+    "Genre": "MMORPG"
   },
   {
     "Game": "Garena Free Fire",
     "Revenue": 4330000000,
-    "Initial release": "2017-12-04",
-    "Publisher(s)": "Garena",
-    "Genre(s)": "Battle royale"
+    "Initial_release": "2017-12-04",
+    "Publisher": "Garena",
+    "Genre": "Battle royale"
   },
   {
     "Game": "Roblox Mobile",
     "Revenue": 3919000000,
-    "Initial release": "2012-12-11",
-    "Publisher(s)": "Roblox Corporation",
-    "Genre(s)": "GCS / MMO"
+    "Initial_release": "2012-12-11",
+    "Publisher": "Roblox Corporation",
+    "Genre": "GCS / MMO"
   },
   {
     "Game": "Genshin Impact",
     "Revenue": 3567000000,
-    "Initial release": "2020-09-28",
-    "Publisher(s)": "miHoYo",
-    "Genre(s)": "Action RPG"
+    "Initial_release": "2020-09-28",
+    "Publisher": "miHoYo",
+    "Genre": "Action RPG"
   },
   {
     "Game": "Lineage M",
     "Revenue": 3578000000,
-    "Initial release": "2017-06-21",
-    "Publisher(s)": "NCsoft",
-    "Genre(s)": "MMORPG"
+    "Initial_release": "2017-06-21",
+    "Publisher": "NCsoft",
+    "Genre": "MMORPG"
   },
   {
     "Game": "Dragon Ball Z: Dokkan Battle",
     "Revenue": 3500000000,
-    "Initial release": "2015-01-30",
-    "Publisher(s)": "Bandai Namco Entertainment",
-    "Genre(s)": "RPG / Puzzle"
+    "Initial_release": "2015-01-30",
+    "Publisher": "Bandai Namco Entertainment",
+    "Genre": "RPG / Puzzle"
   },
   {
     "Game": "Coin Master",
     "Revenue": 3008000000,
-    "Initial release": "2018-03-19",
-    "Publisher(s)": "Moon Active",
-    "Genre(s)": "Casual / Casino"
+    "Initial_release": "2018-03-19",
+    "Publisher": "Moon Active",
+    "Genre": "Casual / Casino"
   },
   {
     "Game": "Clash Royale",
     "Revenue": 3000000000,
-    "Initial release": "2016-03-02",
-    "Publisher(s)": "Supercell (Tencent)",
-    "Genre(s)": "Real-time strategy"
+    "Initial_release": "2016-03-02",
+    "Publisher": "Supercell (Tencent)",
+    "Genre": "Real-time strategy"
   },
   {
     "Game": "Gardenscapes",
     "Revenue": 3000000000,
-    "Initial release": "2016-07-05",
-    "Publisher(s)": "Playrix",
-    "Genre(s)": "Puzzle / Decoration"
+    "Initial_release": "2016-07-05",
+    "Publisher": "Playrix",
+    "Genre": "Puzzle / Decoration"
   },
   {
     "Game": "Game of War: Fire Age",
     "Revenue": 2800000000,
-    "Initial release": "2013-07-25",
-    "Publisher(s)": "Machine Zone",
-    "Genre(s)": "Strategy"
+    "Initial_release": "2013-07-25",
+    "Publisher": "Machine Zone",
+    "Genre": "Strategy"
   },
   {
     "Game": "Lords Mobile",
     "Revenue": 2576700000,
-    "Initial release": "2016-02-26",
-    "Publisher(s)": "IGG",
-    "Genre(s)": "Strategy / MMO"
+    "Initial_release": "2016-02-26",
+    "Publisher": "IGG",
+    "Genre": "Strategy / MMO"
   },
   {
     "Game": "Homescapes",
     "Revenue": 2294000000,
-    "Initial release": "2017-09-15",
-    "Publisher(s)": "Playrix",
-    "Genre(s)": "Puzzle / Decoration"
+    "Initial_release": "2017-09-15",
+    "Publisher": "Playrix",
+    "Genre": "Puzzle / Decoration"
   },
   {
     "Game": "Pro Yakyū Spirits A / Pro Baseball Spirits A",
     "Revenue": 2200000000,
-    "Initial release": "2015-10-21",
-    "Publisher(s)": "Konami",
-    "Genre(s)": "Sports (baseball)"
+    "Initial_release": "2015-10-21",
+    "Publisher": "Konami",
+    "Genre": "Sports (baseball)"
   },
   {
     "Game": "Lineage 2: Revolution",
     "Revenue": 2106770000,
-    "Initial release": "2016-12-14",
-    "Publisher(s)": "Netmarble Games / NCsoft",
-    "Genre(s)": "MMORPG"
+    "Initial_release": "2016-12-14",
+    "Publisher": "Netmarble Games / NCsoft",
+    "Genre": "MMORPG"
   },
   {
     "Game": "Candy Crush Soda Saga",
     "Revenue": 2000000000,
-    "Initial release": "2014-10-20",
-    "Publisher(s)": "King (Activision Blizzard)",
-    "Genre(s)": "Puzzle"
+    "Initial_release": "2014-10-20",
+    "Publisher": "King (Activision Blizzard)",
+    "Genre": "Puzzle"
   },
   {
     "Game": "Three Kingdoms Tactics",
     "Revenue": 1936200000,
-    "Initial release": "2019-09-19",
-    "Publisher(s)": "Alibaba Group / Koei Tecmo",
-    "Genre(s)": "Strategy (4X)"
+    "Initial_release": "2019-09-19",
+    "Publisher": "Alibaba Group / Koei Tecmo",
+    "Genre": "Strategy (4X)"
   },
   {
     "Game": "Marvel Contest of Champions",
     "Revenue": 1784000000,
-    "Initial release": "2014-12-10",
-    "Publisher(s)": "Kabam (Netmarble)",
-    "Genre(s)": "Fighting"
+    "Initial_release": "2014-12-10",
+    "Publisher": "Kabam (Netmarble)",
+    "Genre": "Fighting"
   },
   {
     "Game": "Toon Blast",
     "Revenue": 1600000000,
-    "Initial release": "2017-03-03",
-    "Publisher(s)": "Peak Games",
-    "Genre(s)": "Puzzle"
+    "Initial_release": "2017-03-03",
+    "Publisher": "Peak Games",
+    "Genre": "Puzzle"
   },
   {
     "Game": "Disney Tsum Tsum",
     "Revenue": 1500000000,
-    "Initial release": "2014-01-29",
-    "Publisher(s)": "LINE",
-    "Genre(s)": "Puzzle"
+    "Initial_release": "2014-01-29",
+    "Publisher": "LINE",
+    "Genre": "Puzzle"
   },
   {
     "Game": "Call of Duty: Mobile",
     "Revenue": 1500000000,
-    "Initial release": "2019-10-01",
-    "Publisher(s)": "Activision / Tencent / Garena",
-    "Genre(s)": "Shooter / Battle royale"
+    "Initial_release": "2019-10-01",
+    "Publisher": "Activision / Tencent / Garena",
+    "Genre": "Shooter / Battle royale"
   },
   {
     "Game": "Knives Out",
     "Revenue": 1485270000,
-    "Initial release": "2017-11-23",
-    "Publisher(s)": "NetEase",
-    "Genre(s)": "Battle royale"
+    "Initial_release": "2017-11-23",
+    "Publisher": "NetEase",
+    "Genre": "Battle royale"
   },
   {
     "Game": "AFK Arena",
     "Revenue": 1450000000,
-    "Initial release": "2019-01-07",
-    "Publisher(s)": "Lilith Games",
-    "Genre(s)": "RPG"
+    "Initial_release": "2019-01-07",
+    "Publisher": "Lilith Games",
+    "Genre": "RPG"
   },
   {
     "Game": "Lineage 2 M",
     "Revenue": 1413000000,
-    "Initial release": "2019-11-27",
-    "Publisher(s)": "NCsoft",
-    "Genre(s)": "MMORPG"
+    "Initial_release": "2019-11-27",
+    "Publisher": "NCsoft",
+    "Genre": "MMORPG"
   },
   {
     "Game": "Hay Day",
     "Revenue": 1400000000,
-    "Initial release": "2012-06-21",
-    "Publisher(s)": "Supercell (Tencent)",
-    "Genre(s)": "Simulation"
+    "Initial_release": "2012-06-21",
+    "Publisher": "Supercell (Tencent)",
+    "Genre": "Simulation"
   },
   {
     "Game": "Brawl Stars",
     "Revenue": 1400000000,
-    "Initial release": "2018-12-12",
-    "Publisher(s)": "Supercell (Tencent)",
-    "Genre(s)": "MOBA"
+    "Initial_release": "2018-12-12",
+    "Publisher": "Supercell (Tencent)",
+    "Genre": "MOBA"
   },
   {
     "Game": "Summoners War: Sky Arena",
     "Revenue": 1350000000,
-    "Initial release": "2014-06-12",
-    "Publisher(s)": "Com2Us",
-    "Genre(s)": "TBS / MMO"
+    "Initial_release": "2014-06-12",
+    "Publisher": "Com2Us",
+    "Genre": "TBS / MMO"
   },
   {
     "Game": "Fortnite",
     "Revenue": 1200000000,
-    "Initial release": "2018-04-02",
-    "Publisher(s)": "Epic Games",
-    "Genre(s)": "Battle royale"
+    "Initial_release": "2018-04-02",
+    "Publisher": "Epic Games",
+    "Genre": "Battle royale"
   },
   {
     "Game": "Onmyoji",
     "Revenue": 1129000000,
-    "Initial release": "2016-06-20",
-    "Publisher(s)": "NetEase",
-    "Genre(s)": "RPG"
+    "Initial_release": "2016-06-20",
+    "Publisher": "NetEase",
+    "Genre": "RPG"
   },
   {
     "Game": "Star Wars: Galaxy of Heroes",
     "Revenue": 1071000000,
-    "Initial release": "2015-11-24",
-    "Publisher(s)": "Electronic Arts",
-    "Genre(s)": "RPG"
+    "Initial_release": "2015-11-24",
+    "Publisher": "Electronic Arts",
+    "Genre": "RPG"
   },
   {
     "Game": "Boom Beach",
     "Revenue": 1000000000,
-    "Initial release": "2013-11-11",
-    "Publisher(s)": "Supercell (Tencent)",
-    "Genre(s)": "Strategy"
+    "Initial_release": "2013-11-11",
+    "Publisher": "Supercell (Tencent)",
+    "Genre": "Strategy"
   },
   {
     "Game": "Mobile Strike",
     "Revenue": 1000000000,
-    "Initial release": "2015-07-11",
-    "Publisher(s)": "Machine Zone",
-    "Genre(s)": "Strategy"
+    "Initial_release": "2015-07-11",
+    "Publisher": "Machine Zone",
+    "Genre": "Strategy"
   },
   {
     "Game": "Mobile Legends: Bang Bang",
     "Revenue": 1000000000,
-    "Initial release": "2016-07-11",
-    "Publisher(s)": "Moonton (ByteDance)",
-    "Genre(s)": "MOBA"
+    "Initial_release": "2016-07-11",
+    "Publisher": "Moonton (ByteDance)",
+    "Genre": "MOBA"
   },
   {
     "Game": "Fire Emblem Heroes",
     "Revenue": 1000000000,
-    "Initial release": "2017-02-02",
-    "Publisher(s)": "Nintendo",
-    "Genre(s)": "Tactical RPG"
+    "Initial_release": "2017-02-02",
+    "Publisher": "Nintendo",
+    "Genre": "Tactical RPG"
   },
   {
     "Game": "Uma Musume Pretty Derby",
     "Revenue": 990000000,
-    "Initial release": "2021-02-24",
-    "Publisher(s)": "Cygames",
-    "Genre(s)": "Simulation / Social"
+    "Initial_release": "2021-02-24",
+    "Publisher": "Cygames",
+    "Genre": "Simulation / Social"
   },
   {
     "Game": "QQ Speed Mobile / Speed Drifters",
     "Revenue": 945000000,
-    "Initial release": "2017-06-15",
-    "Publisher(s)": "Tencent Games / Garena",
-    "Genre(s)": "Racing (Kart / MMOR)"
+    "Initial_release": "2017-06-15",
+    "Publisher": "Tencent Games / Garena",
+    "Genre": "Racing (Kart / MMOR)"
   },
   {
     "Game": "Dragon Ball Legends",
     "Revenue": 930000000,
-    "Initial release": "2018-05-18",
-    "Publisher(s)": "Bandai Namco Entertainment",
-    "Genre(s)": "Action RPG"
+    "Initial_release": "2018-05-18",
+    "Publisher": "Bandai Namco Entertainment",
+    "Genre": "Action RPG"
   },
   {
     "Game": "Dragon Quest Walk",
     "Revenue": 927720000,
-    "Initial release": "2019-09-12",
-    "Publisher(s)": "Square Enix",
-    "Genre(s)": "Augmented reality"
+    "Initial_release": "2019-09-12",
+    "Publisher": "Square Enix",
+    "Genre": "Augmented reality"
   },
   {
     "Game": "Rise of Kingdoms",
     "Revenue": 926000000,
-    "Initial release": "2018-09-20",
-    "Publisher(s)": "Lilith Games",
-    "Genre(s)": "Strategy"
+    "Initial_release": "2018-09-20",
+    "Publisher": "Lilith Games",
+    "Genre": "Strategy"
   },
   {
     "Game": "Fishdom",
     "Revenue": 923600000,
-    "Initial release": "2015-12-10",
-    "Publisher(s)": "Playrix",
-    "Genre(s)": "Puzzle"
+    "Initial_release": "2015-12-10",
+    "Publisher": "Playrix",
+    "Genre": "Puzzle"
   },
   {
     "Game": "Township",
     "Revenue": 922100000,
-    "Initial release": "2012-02-24",
-    "Publisher(s)": "Playrix",
-    "Genre(s)": "Simulation (CMS)"
+    "Initial_release": "2012-02-24",
+    "Publisher": "Playrix",
+    "Genre": "Simulation (CMS)"
   },
   {
     "Game": "A Chinese Ghost Story",
     "Revenue": 860000000,
-    "Initial release": "2016-05-19",
-    "Publisher(s)": "NetEase",
-    "Genre(s)": "MMORPG"
+    "Initial_release": "2016-05-19",
+    "Publisher": "NetEase",
+    "Genre": "MMORPG"
   },
   {
     "Game": "Marvel Strike Force",
     "Revenue": 846000000,
-    "Initial release": "2018-03-28",
-    "Publisher(s)": "FoxNext / Scopely",
-    "Genre(s)": "RPG"
+    "Initial_release": "2018-03-28",
+    "Publisher": "FoxNext / Scopely",
+    "Genre": "RPG"
   },
   {
     "Game": "Toy Blast",
     "Revenue": 820000000,
-    "Initial release": "2015-01-06",
-    "Publisher(s)": "Peak Games",
-    "Genre(s)": "Puzzle"
+    "Initial_release": "2015-01-06",
+    "Publisher": "Peak Games",
+    "Genre": "Puzzle"
   },
   {
     "Game": "Granblue Fantasy",
     "Revenue": 754200000,
-    "Initial release": "2014-03-10",
-    "Publisher(s)": "Cygames",
-    "Genre(s)": "RPG"
+    "Initial_release": "2014-03-10",
+    "Publisher": "Cygames",
+    "Genre": "RPG"
   },
   {
     "Game": "Honkai Impact 3rd",
     "Revenue": 731000000,
-    "Initial release": "2016-10-14",
-    "Publisher(s)": "miHoYo",
-    "Genre(s)": "ARPG / Hack & slash"
+    "Initial_release": "2016-10-14",
+    "Publisher": "miHoYo",
+    "Genre": "ARPG / Hack & slash"
   },
   {
     "Game": "King of Avalon",
     "Revenue": 721000000,
-    "Initial release": "2016-07-14",
-    "Publisher(s)": "FunPlus",
-    "Genre(s)": "Strategy"
+    "Initial_release": "2016-07-14",
+    "Publisher": "FunPlus",
+    "Genre": "Strategy"
   },
   {
     "Game": "Clash of Kings",
     "Revenue": 700000000,
-    "Initial release": "2014-06-14",
-    "Publisher(s)": "Elex Tech",
-    "Genre(s)": "Strategy / MMO"
+    "Initial_release": "2014-06-14",
+    "Publisher": "Elex Tech",
+    "Genre": "Strategy / MMO"
   },
   {
     "Game": "The Seven Deadly Sins: Grand Cross",
     "Revenue": 680000000,
-    "Initial release": "2019-06-04",
-    "Publisher(s)": "Netmarble",
-    "Genre(s)": "RPG"
+    "Initial_release": "2019-06-04",
+    "Publisher": "Netmarble",
+    "Genre": "RPG"
   },
   {
     "Game": "Hearthstone",
     "Revenue": 660000000,
-    "Initial release": "2014-04-16",
-    "Publisher(s)": "Blizzard (Activision Blizzard)",
-    "Genre(s)": "DCCG"
+    "Initial_release": "2014-04-16",
+    "Publisher": "Blizzard (Activision Blizzard)",
+    "Genre": "DCCG"
   },
   {
     "Game": "The Battle Cats",
     "Revenue": 600000000,
-    "Initial release": "2012-11-01",
-    "Publisher(s)": "PONOS Corporation",
-    "Genre(s)": "Real Time Strategy"
+    "Initial_release": "2012-11-01",
+    "Publisher": "PONOS Corporation",
+    "Genre": "Real Time Strategy"
   },
   {
     "Game": "The Idolmaster Cinderella Girls: Starlight Stage",
     "Revenue": 524000000,
-    "Initial release": "2015-09-03",
-    "Publisher(s)": "Bandai Namco Entertainment",
-    "Genre(s)": "DCCG / Rhythm"
+    "Initial_release": "2015-09-03",
+    "Publisher": "Bandai Namco Entertainment",
+    "Genre": "DCCG / Rhythm"
   },
   {
     "Game": "Final Fantasy XV: A New Empire",
     "Revenue": 518400000,
-    "Initial release": "2017-06-29",
-    "Publisher(s)": "Machine Zone / Square Enix",
-    "Genre(s)": "Strategy"
+    "Initial_release": "2017-06-29",
+    "Publisher": "Machine Zone / Square Enix",
+    "Genre": "Strategy"
   },
   {
     "Game": "Guns of Glory",
     "Revenue": 510000000,
-    "Initial release": "2017-09-08",
-    "Publisher(s)": "FunPlus",
-    "Genre(s)": "Strategy MMORPG"
+    "Initial_release": "2017-09-08",
+    "Publisher": "FunPlus",
+    "Genre": "Strategy MMORPG"
   },
   {
     "Game": "League of Legends: Wild Rift",
     "Revenue": 505000000,
-    "Initial release": "2020-10-27",
-    "Publisher(s)": "Riot Games (Tencent)",
-    "Genre(s)": "MOBA"
+    "Initial_release": "2020-10-27",
+    "Publisher": "Riot Games (Tencent)",
+    "Genre": "MOBA"
   },
   {
     "Game": "Minecraft",
     "Revenue": 500000000,
-    "Initial release": "2011-11-18",
-    "Publisher(s)": "Mojang Studios",
-    "Genre(s)": "Sandbox / Survival"
+    "Initial_release": "2011-11-18",
+    "Publisher": "Mojang Studios",
+    "Genre": "Sandbox / Survival"
   },
   {
     "Game": "Crossfire Mobile",
     "Revenue": 458000000,
-    "Initial release": "2015-12-03",
-    "Publisher(s)": "Smilegate / Tencent",
-    "Genre(s)": "Tactical FPS"
+    "Initial_release": "2015-12-03",
+    "Publisher": "Smilegate / Tencent",
+    "Genre": "Tactical FPS"
   },
   {
     "Game": "Blade & Soul Revolution",
     "Revenue": 457000000,
-    "Initial release": "2018-12-06",
-    "Publisher(s)": "Netmarble",
-    "Genre(s)": "MMORPG"
+    "Initial_release": "2018-12-06",
+    "Publisher": "Netmarble",
+    "Genre": "MMORPG"
   },
   {
     "Game": "Bingo Blitz",
     "Revenue": 443000000,
-    "Initial release": "2012-08-12",
-    "Publisher(s)": "Playtika",
-    "Genre(s)": "Online Bingo"
+    "Initial_release": "2012-08-12",
+    "Publisher": "Playtika",
+    "Genre": "Online Bingo"
   },
   {
     "Game": "Harry Potter: Hogwarts Mystery",
     "Revenue": 401000000,
-    "Initial release": "2018-04-25",
-    "Publisher(s)": "Jam City (Netmarble)",
-    "Genre(s)": "RPG"
+    "Initial_release": "2018-04-25",
+    "Publisher": "Jam City (Netmarble)",
+    "Genre": "RPG"
   },
   {
     "Game": "8 Ball Pool",
     "Revenue": 400000000,
-    "Initial release": "2010-10-15",
-    "Publisher(s)": "Miniclip",
-    "Genre(s)": "Sports (pool)"
+    "Initial_release": "2010-10-15",
+    "Publisher": "Miniclip",
+    "Genre": "Sports (pool)"
   },
   {
     "Game": "Harry Potter: Magic Awakened",
     "Revenue": 358000000,
-    "Initial release": "2021-09-09",
-    "Publisher(s)": "NetEase / Portkey Games",
-    "Genre(s)": "RPG"
+    "Initial_release": "2021-09-09",
+    "Publisher": "NetEase / Portkey Games",
+    "Genre": "RPG"
   },
   {
     "Game": "Angry Birds 2",
     "Revenue": 332500000,
-    "Initial release": "2015-07-30",
-    "Publisher(s)": "Rovio Entertainment",
-    "Genre(s)": "Physics / Puzzle"
+    "Initial_release": "2015-07-30",
+    "Publisher": "Rovio Entertainment",
+    "Genre": "Physics / Puzzle"
   },
   {
     "Game": "FIFA Mobile / FIFA Soccer",
     "Revenue": 308700000,
-    "Initial release": "2016-10-11",
-    "Publisher(s)": "EA Sports (Electronic Arts)",
-    "Genre(s)": "Sports (association football)"
+    "Initial_release": "2016-10-11",
+    "Publisher": "EA Sports (Electronic Arts)",
+    "Genre": "Sports (association football)"
   },
   {
     "Game": "Lineage W",
     "Revenue": 302985000,
-    "Initial release": "2021-11-04",
-    "Publisher(s)": "NCsoft",
-    "Genre(s)": "MMORPG"
+    "Initial_release": "2021-11-04",
+    "Publisher": "NCsoft",
+    "Genre": "MMORPG"
   },
   {
     "Game": "Black Desert Mobile",
     "Revenue": 300000000,
-    "Initial release": "2019-06-15",
-    "Publisher(s)": "Kakao Games",
-    "Genre(s)": "MMORPG"
+    "Initial_release": "2019-06-15",
+    "Publisher": "Kakao Games",
+    "Genre": "MMORPG"
   },
   {
     "Game": "Yu-Gi-Oh! Duel Links",
     "Revenue": 284000000,
-    "Initial release": "2016-11-17",
-    "Publisher(s)": "Konami",
-    "Genre(s)": "Digital collectible card game"
+    "Initial_release": "2016-11-17",
+    "Publisher": "Konami",
+    "Genre": "Digital collectible card game"
   },
   {
     "Game": "Mario Kart Tour",
     "Revenue": 282000000,
-    "Initial release": "2019-09-25",
-    "Publisher(s)": "Nintendo",
-    "Genre(s)": "Racing (Kart)"
+    "Initial_release": "2019-09-25",
+    "Publisher": "Nintendo",
+    "Genre": "Racing (Kart)"
   },
   {
     "Game": "Animal Crossing: Pocket Camp",
     "Revenue": 282000000,
-    "Initial release": "2017-10-25",
-    "Publisher(s)": "Nintendo",
-    "Genre(s)": "Simulation (Social)"
+    "Initial_release": "2017-10-25",
+    "Publisher": "Nintendo",
+    "Genre": "Simulation (Social)"
   },
   {
     "Game": "#COMPASS",
     "Revenue": 281000000,
-    "Initial release": "2016-12-17",
-    "Publisher(s)": "NHN PlayArt / Dwango",
-    "Genre(s)": "MOBA"
+    "Initial_release": "2016-12-17",
+    "Publisher": "NHN PlayArt / Dwango",
+    "Genre": "MOBA"
   },
   {
     "Game": "Raid: Shadow Legends",
     "Revenue": 247000000,
-    "Initial release": "2018-07-29",
-    "Publisher(s)": "Plarium",
-    "Genre(s)": "RPG"
+    "Initial_release": "2018-07-29",
+    "Publisher": "Plarium",
+    "Genre": "RPG"
   },
   {
     "Game": "Star Trek Fleet Command",
     "Revenue": 222000000,
-    "Initial release": "2018-11-29",
-    "Publisher(s)": "Scopely / CBS Interactive",
-    "Genre(s)": "Strategy (4X)"
+    "Initial_release": "2018-11-29",
+    "Publisher": "Scopely / CBS Interactive",
+    "Genre": "Strategy (4X)"
   },
   {
     "Game": "Project Makeover",
     "Revenue": 218000000,
-    "Initial release": "2020-11-27",
-    "Publisher(s)": "Bubblegum Games",
-    "Genre(s)": "Puzzle / Decoration"
+    "Initial_release": "2020-11-27",
+    "Publisher": "Bubblegum Games",
+    "Genre": "Puzzle / Decoration"
   },
   {
     "Game": "Harry Potter: Puzzles & Spells",
     "Revenue": 218000000,
-    "Initial release": "2020-09-22",
-    "Publisher(s)": "Portkey Games / Zynga",
-    "Genre(s)": "Puzzle"
+    "Initial_release": "2020-09-22",
+    "Publisher": "Portkey Games / Zynga",
+    "Genre": "Puzzle"
   },
   {
     "Game": "DomiNations",
     "Revenue": 200000000,
-    "Initial release": "2015-04-01",
-    "Publisher(s)": "Big Huge Games",
-    "Genre(s)": "Strategy"
+    "Initial_release": "2015-04-01",
+    "Publisher": "Big Huge Games",
+    "Genre": "Strategy"
   },
   {
     "Game": "Candy Crush Friends Saga",
     "Revenue": 200000000,
-    "Initial release": "2018-10-10",
-    "Publisher(s)": "King (Activision Blizzard)",
-    "Genre(s)": "Puzzle"
+    "Initial_release": "2018-10-10",
+    "Publisher": "King (Activision Blizzard)",
+    "Genre": "Puzzle"
   },
   {
     "Game": "Top War",
     "Revenue": 192000000,
-    "Initial release": "2019-12-31",
-    "Publisher(s)": "Topwar Studio",
-    "Genre(s)": "Strategy"
+    "Initial_release": "2019-12-31",
+    "Publisher": "Topwar Studio",
+    "Genre": "Strategy"
   },
   {
     "Game": "Empire & Puzzles",
     "Revenue": 186000000,
-    "Initial release": "2017-03-01",
-    "Publisher(s)": "Small Giant Games",
-    "Genre(s)": "Puzzle / RPG"
+    "Initial_release": "2017-03-01",
+    "Publisher": "Small Giant Games",
+    "Genre": "Puzzle / RPG"
   },
   {
     "Game": "KartRider Rush+",
     "Revenue": 169000000,
-    "Initial release": "2020-05-31",
-    "Publisher(s)": "Nexon",
-    "Genre(s)": "Racing (Kart)"
+    "Initial_release": "2020-05-31",
+    "Publisher": "Nexon",
+    "Genre": "Racing (Kart)"
   },
   {
     "Game": "Dragalia Lost",
     "Revenue": 168000000,
-    "Initial release": "2018-09-27",
-    "Publisher(s)": "Nintendo",
-    "Genre(s)": "Action RPG"
+    "Initial_release": "2018-09-27",
+    "Publisher": "Nintendo",
+    "Genre": "Action RPG"
   },
   {
     "Game": "Perfect World Mobile",
     "Revenue": 165000000,
-    "Initial release": "2019-03-05",
-    "Publisher(s)": "Perfect World Games / Tencent",
-    "Genre(s)": "MMORPG"
+    "Initial_release": "2019-03-05",
+    "Publisher": "Perfect World Games / Tencent",
+    "Genre": "MMORPG"
   },
   {
     "Game": "Three Kingdoms Fantasy Land",
     "Revenue": 161600000,
-    "Initial release": "2020-06-20",
-    "Publisher(s)": "Alibaba Group",
-    "Genre(s)": "Strategy (auto battler)"
+    "Initial_release": "2020-06-20",
+    "Publisher": "Alibaba Group",
+    "Genre": "Strategy (auto battler)"
   },
   {
     "Game": "Candy Crush Jelly Saga",
     "Revenue": 158000000,
-    "Initial release": "2015-08-28",
-    "Publisher(s)": "King (Activision Blizzard)",
-    "Genre(s)": "Puzzle"
+    "Initial_release": "2015-08-28",
+    "Publisher": "King (Activision Blizzard)",
+    "Genre": "Puzzle"
   },
   {
     "Game": "Jikkyō Powerful Pro Yakyū",
     "Revenue": 155000000,
-    "Initial release": "2014-12-18",
-    "Publisher(s)": "Konami",
-    "Genre(s)": "Sports (baseball)"
+    "Initial_release": "2014-12-18",
+    "Publisher": "Konami",
+    "Genre": "Sports (baseball)"
   },
   {
     "Game": "Puzzles & Survival",
     "Revenue": 151000000,
-    "Initial release": "2020-10-02",
-    "Publisher(s)": "37Games",
-    "Genre(s)": "Puzzle / Strategy"
+    "Initial_release": "2020-10-02",
+    "Publisher": "37Games",
+    "Genre": "Puzzle / Strategy"
   },
   {
     "Game": "Slotomania",
     "Revenue": 149000000,
-    "Initial release": "2011-11-07",
-    "Publisher(s)": "Playtika",
-    "Genre(s)": "Simulation (Slot)"
+    "Initial_release": "2011-11-07",
+    "Publisher": "Playtika",
+    "Genre": "Simulation (Slot)"
   },
   {
     "Game": "NBA Live Mobile",
     "Revenue": 140000000,
-    "Initial release": "2016-07-06",
-    "Publisher(s)": "EA Sports (Electronic Arts)",
-    "Genre(s)": "Sports (basketball)"
+    "Initial_release": "2016-07-06",
+    "Publisher": "EA Sports (Electronic Arts)",
+    "Genre": "Sports (basketball)"
   },
   {
     "Game": "White Cat Project",
     "Revenue": 134000000,
-    "Initial release": "2014-07-14",
-    "Publisher(s)": "Colopl",
-    "Genre(s)": "Action RPG"
+    "Initial_release": "2014-07-14",
+    "Publisher": "Colopl",
+    "Genre": "Action RPG"
   },
   {
     "Game": "BanG Dream! Girls Band Party!",
     "Revenue": 124050000,
-    "Initial release": "2017-03-16",
-    "Publisher(s)": "Bushiroad",
-    "Genre(s)": "Rhythm / Adventure"
+    "Initial_release": "2017-03-16",
+    "Publisher": "Bushiroad",
+    "Genre": "Rhythm / Adventure"
   },
   {
     "Game": "CSR Racing 2",
     "Revenue": 121500000,
-    "Initial release": "2016-06-29",
-    "Publisher(s)": "NaturalMotion (Zynga)",
-    "Genre(s)": "Racing"
+    "Initial_release": "2016-06-29",
+    "Publisher": "NaturalMotion (Zynga)",
+    "Genre": "Racing"
   },
   {
     "Game": "One Piece: Burning Will",
     "Revenue": 117000000,
-    "Initial release": "2018-09-20",
-    "Publisher(s)": "Bandai Namco / Alibaba Group",
-    "Genre(s)": "RPG"
+    "Initial_release": "2018-09-20",
+    "Publisher": "Bandai Namco / Alibaba Group",
+    "Genre": "RPG"
   },
   {
     "Game": "One Piece: The Road of the Strong",
     "Revenue": 113840000,
-    "Initial release": "2016-01-15",
-    "Publisher(s)": "CMGE",
-    "Genre(s)": "DCCG"
+    "Initial_release": "2016-01-15",
+    "Publisher": "CMGE",
+    "Genre": "DCCG"
   },
   {
     "Game": "Yahtzee With Buddies",
     "Revenue": 113000000,
-    "Initial release": "2017-11-01",
-    "Publisher(s)": "Scopely",
-    "Genre(s)": "Yahtzee"
+    "Initial_release": "2017-11-01",
+    "Publisher": "Scopely",
+    "Genre": "Yahtzee"
   },
   {
     "Game": "Dragon Quest Tact",
     "Revenue": 111990000,
-    "Initial release": "2020-07-16",
-    "Publisher(s)": "Square Enix",
-    "Genre(s)": "Tactical RPG"
+    "Initial_release": "2020-07-16",
+    "Publisher": "Square Enix",
+    "Genre": "Tactical RPG"
   },
   {
     "Game": "Fallout Shelter",
     "Revenue": 100000000,
-    "Initial release": "2015-06-14",
-    "Publisher(s)": "Bethesda Softworks",
-    "Genre(s)": "Simulation (CMS)"
+    "Initial_release": "2015-06-14",
+    "Publisher": "Bethesda Softworks",
+    "Genre": "Simulation (CMS)"
   },
   {
     "Game": "Mafia City",
     "Revenue": 100000000,
-    "Initial release": "2017-07-25",
-    "Publisher(s)": "Yotta Games",
-    "Genre(s)": "RPG"
+    "Initial_release": "2017-07-25",
+    "Publisher": "Yotta Games",
+    "Genre": "RPG"
   },
   {
     "Game": "Madden NFL Overdrive",
     "Revenue": 100000000,
-    "Initial release": "2018-08-15",
-    "Publisher(s)": "EA Sports (Electronic Arts)",
-    "Genre(s)": "Sports (American football)"
+    "Initial_release": "2018-08-15",
+    "Publisher": "EA Sports (Electronic Arts)",
+    "Genre": "Sports (American football)"
   }
 ]

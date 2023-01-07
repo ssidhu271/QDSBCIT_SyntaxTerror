@@ -1,0 +1,37 @@
+[
+  {
+    "Game": "Honor of Kings / Arena of Valor",
+    "Revenue": 14667500000,
+    "Initial_release": "2015-11-26",
+    "Publisher": "Tencent Games",
+    "Genre": "MOBA"
+  },
+  {
+    "Game": "Monster Strike",
+    "Revenue": 10000000000,
+    "Initial_release": "2013-08-08",
+    "Publisher": "Mixi",
+    "Genre": "Puzzle / RPG / Strategy"
+  },
+  {
+    "Game": "PUBG Mobile",
+    "Revenue": 9000000000,
+    "Initial_release": "2018-03-19",
+    "Publisher": "Tencent Games / Krafton / VNG Games",
+    "Genre": "Battle royale"
+  },
+  {
+    "Game": "Puzzle & Dragons",
+    "Revenue": 8578340000,
+    "Initial_release": "2012-02-20",
+    "Publisher": "GungHo Online Entertainment",
+    "Genre": "RPG / Puzzle"
+  },
+  {
+    "Game": "Clash of Clans",
+    "Revenue": 8000000000,
+    "Initial_release": "2012-08-02",
+    "Publisher": "Supercell (Tencent)",
+    "Genre": "Strategy"
+  }
+]
