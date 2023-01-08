@@ -1,20 +1,16 @@
-Website Name
-A brief description of the website and its purpose.
+## MobiRanker
+The purpose of the website is to add a .csv or .json file that will be interpreted by the app and be turned into tables and graphs.
 
-Getting Started
-Instructions on how to access and use the website. This could include information on how to install any dependencies and how to run the website locally.
+## Getting Started
+In future the website will be hosted at QDS-MOBIRANKER.com. Currently the site is a local only site. 
 
-Features
-A list of the features and functionality provided by the website.
+## Features
+Allows reading of a json or csv file to read data. Displays the data as graphs and allows you to gather information from the data on screen.
 
-Technologies Used
-A list of the technologies and tools used to build the website, such as programming languages and frameworks.
+## Technologies Used
+HTML
+CSS
+JavaScript
 
-Credits
-List of contributors to the project
-Any third-party resources or libraries that were used
-License
-Information on the licensing of the website and its codebase. This could be a reference to a specific license, or a statement that the project is unlicensed.
-
-Additional Notes
-Any additional information or notes about the website and its development.
+## Credits
+Contributors: Sam Chua, Benny Li, Eric Cho, Sukhraj Sidhu, Brett Reader.
