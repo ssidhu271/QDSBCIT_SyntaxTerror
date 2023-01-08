@@ -2,39 +2,42 @@
 
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <script
-      type="text/javascript"
-      src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"
-    ></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js"></script>
-    <title>Population Chart</title>
-  </head>
-  <body>
-    <h1 style="color: green">Welcome To Tutorials Point</h1>
-    <div style="width: 800, height: 600">
-      <canvas id="bar-chart"> </canvas>
-    </div>
-    <script>
-      getData();
-      async function getData() {
-        const response = await fetch("../archive/Game_data.json");
-        const data = await response.json();
-        //console.log(data);
-        //length = data.data.length;
-        //console.log(data.length);
-        labels = [];
-        values = [];
-        for (i = 0; i < data.length; i++) {
-          labels.push(data[i].Game);
-          values.push(data[i].Revenue);
-        }
-        console.log(values);
-        new Chart(document.getElementById("bar-chart"), {
-          type: "bar",
-          data: {
+<head>
+   <meta charset="utf-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+   <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js">
+   </script>
+   <title>Population Chart</title>
+</head>
+<body>
+   <h1 style="color: green;">
+      Welcome To Tutorials Point
+   </h1>
+   <div style="width: 800; height: 600">
+      <canvas id="bar-chart">
+      </canvas>
+   </div>
+<script>
+   getData();
+   async function getData() {
+      const response = await fetch('../archive/Game_data_Top5.json');
+      const data = await response.json();
+      //console.log(data);
+      //length = data.data.length;
+      //console.log(data.length);
+      labels = [];
+      values = [];
+      for (i = 0; i < data.length; i++) {
+       
+         labels.push(data[i].Game);
+         values.push(data[i].Revenue);
+         
+      }
+      console.log(data[4].Revenue);
+      new Chart(document.getElementById("bar-chart"), {
+         type: 'bar',
+         data: {
             labels: labels,
             datasets: [
               {
