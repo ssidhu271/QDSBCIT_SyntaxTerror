@@ -23,24 +23,42 @@
 <script>
    getData();
    async function getData() {
-      const response = await fetch('/archive/Game_data_Top5.json');
+      const response = await fetch('/archive/Game_data.json');
       const data = await response.json();
       //console.log(data);
       //length = data.data.length;
       //console.log(data.length);
       labels = [];
       values = [];
+      top5labels = [];
+      top5values = [];
       for (i = 0; i < data.length; i++) {
-       
          labels.push(data[i].Game);
          values.push(data[i].Revenue);
-         
       }
-      console.log(data[4].Revenue);
+      // sort highest revenue
+      for (i = 0; i < values.length; i++) {
+        for (j = i + 1; j < values.length; j++) {
+          if (values[i] < values[j]) {
+            let tempLabel = labels[i];
+            let tempVal = values[i];
+            labels[i] = labels[j];
+            labels[j] = tempLabel;
+            values[i] = values[j];
+            values[j] = tempVal;
+          }
+        }
+      }
+
+      for (i = 0; i < 5; i++) {
+        top5labels[i] = labels[i];
+        top5values[i] = values[i];
+      }
+
       new Chart(document.getElementById("bar-chart"), {
          type: 'bar',
          data: {
-            labels: labels,
+            labels: top5labels,
             datasets: [
               {
                 label: "Population (millions)",
@@ -53,7 +71,7 @@
                   "#8e5ea2",
                   "#40E0D0",
                 ],
-                data: values,
+                data: top5values,
               },
             ],
           },
