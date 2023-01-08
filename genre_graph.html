@@ -1,0 +1,78 @@
+<!-- Graph table I'm trying to get to work-->
+
+<!DOCTYPE html>
+<html>
+<head>
+   <meta charset="utf-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+   <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js">
+   </script>
+   <title>Population Chart</title>
+</head>
+<body>
+   <h1 style="color: green;">
+      Welcome To Tutorials Point
+   </h1>
+   <div style="width: 800; height: 600">
+      <canvas id="bar-chart">
+      </canvas>
+   </div>
+<script>
+   getData();
+   async function getData() {
+      const response = await fetch('../archive/Game_data.json');
+      const data = await response.json();
+      //console.log(data);
+      //length = data.data.length;
+      //console.log(data.length);
+      labels = [];
+      values = [];
+
+      for (i = 0; i < data.length; i++) {
+         // Check to see if Genre exists within labels array
+         if (!labels.includes(data[i].Genre)) {
+            labels.push(data[i].Genre);
+            let sum = data[i].Revenue;
+            // Add all similar genre revenues together
+            for (j = 0; j < data.length; j++) {
+               if (data[i].Genre == data[j].Genre) {
+                  sum += data[i].Revenue;
+               }
+            }
+            values.push(sum);
+         }
+      }
+
+      
+      //console.log(data[4].Revenue);
+      new Chart(document.getElementById("bar-chart"), {
+         type: 'bar',
+         data: {
+            labels: labels,
+            datasets: [
+               {
+                  label: "Revenue (millions)",
+                  backgroundColor: ["#3a90cd",
+                     "#8e5ea2",
+                     "#3bba9f",
+                     "#e8c3b9",
+                     "#c45850",
+                     "#CD9C5C",
+                     "#40E0D0"],
+                  data: values
+               }
+            ]
+         },
+         options: {
+            legend: { display: false },
+            title: {
+               display: true,
+               text: 'U.S population'
+            }
+         }
+      });
+   }
+</script>
+</body>
+</html>
