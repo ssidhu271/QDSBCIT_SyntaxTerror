@@ -1,5 +1,3 @@
-<!-- Graph table I'm trying to get to work-->
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -14,23 +12,23 @@
    <h1 style="color: green;">
       Welcome To Tutorials Point
    </h1>
-   <div style="width: 800, height: 600">
+   <div style="width: 800; height: 600">
       <canvas id="bar-chart">
       </canvas>
    </div>
 <script>
    getData();
    async function getData() {
-      const response = await fetch('../archive/');
+      const response = await fetch('../archive/Game_data_Top5.json');
       const data = await response.json();
       console.log(data);
-      length = data.data.length;
+      const length = data.data;
       console.log(length);
       labels = [];
       values = [];
       for (i = 0; i < length; i++) {
-         labels.push(data.data[i].Year);
-         values.push(data.data[i].Population);
+         labels.push(data.data[i].Game);
+         values.push(data.data[i].Revenue);
       }
       new Chart(document.getElementById("bar-chart"), {
          type: 'bar',
@@ -38,7 +36,7 @@
             labels: labels,
             datasets: [
                {
-                  label: "Population (millions)",
+                  label: "Money (millions)",
                   backgroundColor: ["#3a90cd",
                      "#8e5ea2",
                      "#3bba9f",
