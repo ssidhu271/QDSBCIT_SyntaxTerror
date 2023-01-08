@@ -11,6 +11,46 @@ Allows reading of a json or csv file to read data. Displays the data as graphs a
 HTML
 CSS
 JavaScript
+Bootstrap
 
 ## Credits
 Contributors: Sam Chua, Benny Li, Eric Cho, Sukhraj Sidhu, Brett Reader.
+
+## File Structure  
+├── app/html
+    /coverPage.html
+    /graph_genre.html
+    /graph_revenue.html
+    /graph_year.html
+    /graphPage.html
+
+├── archive
+    /Game-data-nomonth.json
+    /Game_data_noyear.json
+    /Game_data_Top5.json
+    /Game_data.json
+    /mobile-games.csv
+
+├── public
+    ├── css
+        /bootstrap.css
+        /our_bootsrap.css
+        /styles.css
+
+    ├── fonts
+        /norwester.otf
+
+    ├── img
+        /calendar.png
+        /categoryIcon.png
+        /exampleGraph.png
+        /gameControllerIconWhite.png
+        /mobileGameIcon.png
+        /peopleIcon.png
+        /placeHolder.png
+        /protoBackg.png
+        /statsIcon.png
+        /truck_icon.png
+
+    ├── js
+        /graphs.js
