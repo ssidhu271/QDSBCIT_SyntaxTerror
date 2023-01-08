@@ -44,6 +44,20 @@
          }
       }
 
+      // sort array desceneding
+      for (i = 0; i < values.length; i++) {
+         for (j = i + 1; j < values.length; j++) {
+            if (values[i] < values[j]) {
+               let tempDate = labels[i];
+               let tempVal = values[i];
+               labels[i] = labels[j];
+               labels[j] = tempDate;
+               values[i] = values[j];
+               values[j] = tempVal;
+            }
+         }
+      }
+
       
       //console.log(data[4].Revenue);
       new Chart(document.getElementById("bar-chart"), {
@@ -68,7 +82,7 @@
             legend: { display: false },
             title: {
                display: true,
-               text: 'U.S population'
+               text: 'Genre Sort'
             }
          }
       });

@@ -30,17 +30,31 @@
       values = [];
 
       for (i = 0; i < data.length; i++) {
-         // Check to see if Genre exists within labels array
+         // Check to see if entry exists within labels array
          if (!labels.includes(data[i].Initial_release)) {
             labels.push(data[i].Initial_release);
             let sum = data[i].Revenue;
-            // Add all similar genre revenues together
+            // Add all similar revenues together
             for (j = 0; j < data.length; j++) {
                if (data[i].Initial_release == data[j].Initial_release) {
                   sum += data[i].Revenue;
                }
             }
             values.push(sum);
+         }
+      }
+
+      // sort array desceneding
+      for (i = 0; i < values.length; i++) {
+         for (j = i + 1; j < values.length; j++) {
+            if (values[i] < values[j]) {
+               let tempDate = labels[i];
+               let tempVal = values[i];
+               labels[i] = labels[j];
+               labels[j] = tempDate;
+               values[i] = values[j];
+               values[j] = tempVal;
+            }
          }
       }
 
@@ -68,7 +82,7 @@
             legend: { display: false },
             title: {
                display: true,
-               text: 'U.S population'
+               text: 'Initial Release Date Sort'
             }
          }
       });
