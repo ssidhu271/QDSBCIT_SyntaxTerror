@@ -1,0 +1,141 @@
+
+/*///////////////////////////////////////////////   <General Body>   /////////////////////////////////////////////// */
+body {
+background-color: black;
+}
+
+/*///////////////////////////////////////////////   <Page Effects>   /////////////////////////////////////////////// */
+nav {
+    animation: fadeInAnimation ease 3s;
+	animation-iteration-count: 1;
+	animation-fill-mode: forwards;
+}
+
+body {
+	animation: fadeInAnimation2 ease 3s;
+	animation-iteration-count: 1;
+	animation-fill-mode: forwards;
+}
+
+@keyframes fadeInAnimation {
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+}
+
+@keyframes fadeInAnimation2 {
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+}
+
+/*///////////////////////////////////////////////   <Interactables>   /////////////////////////////////////////////// */
+
+.button {
+    background-image: url(/public/img/protoBackg.png);
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1vw;
+    font-family: norwesterParagraph;
+    transition: ease-out 0.5s;
+  }
+
+  .button2 {
+    background-color: white;
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1vw;
+    font-family: norwesterParagraph;
+    transition: ease-out 0.5s;
+  }
+
+/*///////////////////////////////////////////////   <Interactable Effects>   /////////////////////////////////////////////// */
+
+.button:hover {
+    color: black;
+    transition: ease-in 0.2s;
+    font-size: 1.1vw;
+}
+
+.button2:hover {
+    color: black;
+    transition: ease-in 0.2s;
+    font-size: 1.1vw;
+}
+
+/*///////////////////////////////////////////////   <Fonts>   /////////////////////////////////////////////// */
+
+.miniText {
+    font-family: norwesterParagraph;
+    color:black;
+    font-size: 0.85vw;
+    text-align:left;
+    padding-left: 0%;
+    padding-right: 4%;
+    padding-top: 2.5%;
+}
+
+.pFontOrange {
+    font-family: norwesterParagraph;
+    color:orange;
+    font-size: 2vw;
+}
+
+.pFontWhite {
+    font-family: norwesterParagraph;
+    color:white;
+    font-size: 2vw;
+}
+
+.pFont {
+    font-family: norwesterParagraph;
+    color:black;
+    font-size: 1vw;
+}
+
+.pFontOne {
+    font-family: norwesterParagraph;
+    font-size: 5vw;
+}
+@font-face {
+    font-family: norwesterParagraph;
+    src: url(/public/fonts/norwester.otf);
+}
+
+/*///////////////////////////////////////////////   <Font Effects>   /////////////////////////////////////////////// */
+
+.type {
+    font-family: norwesterParagraph;
+    color:#0000;
+    background:
+      linear-gradient(-90deg,orange 5px,#0000 0) 10px 0,
+      linear-gradient(orange 0 0) 0 0;
+    background-size:calc(var(--n)*1ch) 200%;
+    -webkit-background-clip:padding-box,text;
+    background-clip:padding-box,text;
+    background-repeat:no-repeat;
+    animation: 
+     b .5s infinite steps(1),   
+     t calc(var(--n)*.05s) steps(var(--n)) forwards;
+  }
+  
+  @keyframes t{
+    from {background-size:0 200%}
+  }
+  @keyframes b{
+    50% {background-position:0 -100%,0 0}
+  }
