@@ -23,14 +23,16 @@
    async function getData() {
       const response = await fetch('../archive/Game_data_Top5.json');
       const data = await response.json();
-      console.log(data);
-      length = data.data.length;
-      console.log(length);
+      //console.log(data);
+      //length = data.data.length;
+      //console.log(data.length);
       labels = [];
       values = [];
-      for (i = 0; i < length; i++) {
-         labels.push(data.data[i].Year);
-         values.push(data.data[i].Population);
+      for (i = 0; i < data.length; i++) {
+       
+         labels.push(data[i].Game);
+         values.push(data[i].Revenue);
+         
       }
       console.log(data[4].Revenue);
       new Chart(document.getElementById("bar-chart"), {
