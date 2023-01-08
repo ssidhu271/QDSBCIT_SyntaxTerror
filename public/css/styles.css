@@ -4,14 +4,25 @@ body {
 background-color: black;
 }
 
+canvas {
+  width: 100%;
+  height: 100%;
+  padding-bottom: 0%;
+}
+
+.card {
+  height: 100%;
+}
+
 /*///////////////////////////////////////////////   <Page Effects>   /////////////////////////////////////////////// */
-nav {
+
+#nav {
     animation: fadeInAnimation ease 3s;
 	animation-iteration-count: 1;
 	animation-fill-mode: forwards;
 }
 
-body {
+#hero {
 	animation: fadeInAnimation2 ease 3s;
 	animation-iteration-count: 1;
 	animation-fill-mode: forwards;
@@ -63,7 +74,37 @@ body {
     transition: ease-out 0.5s;
   }
 
+  iframe {
+    transition: ease-out 0.5s;
+    border-radius: 1%;
+    border: 2px;
+    width: 100%;
+    height: 60%;
+    z-index: 1;
+    margin-top: 5%;
+  }
 /*///////////////////////////////////////////////   <Interactable Effects>   /////////////////////////////////////////////// */
+iframe:hover{
+  width: 175%;
+  height: 90%;
+  position: absolute;
+  transition: ease-in 0.5s;
+}
+
+#iframe3:hover{
+  transform: translateX(-80%);
+  z-index: 2;
+  }
+
+#iframe2:hover{
+  transform: translateX(-25%);
+  z-index: 2;
+  }
+
+#iframe1:hover{
+  transform: translateX(35%);
+  z-index: 2;
+  }
 
 .button:hover {
     color: black;
@@ -139,3 +180,25 @@ body {
   @keyframes b{
     50% {background-position:0 -100%,0 0}
   }
+
+/*///////////////////////////////////////////////   <Scrollbar>   /////////////////////////////////////////////// */
+
+  /* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: black;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: orange;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: rgb(188, 122, 0);
+}

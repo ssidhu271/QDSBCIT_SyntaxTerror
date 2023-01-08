@@ -5,23 +5,25 @@
 <head>
    <meta charset="utf-8">
    <meta name="viewport" content="width=device-width, initial-scale=1">
+   
+   <!--CSS Links-->
+   <link href="/public/css/styles.css" rel="stylesheet">
+   <link href="/public/css/bootstrap.css" rel="stylesheet">
+   <link href="/public/css/our_bootstrap.css" rel="stylesheet">
+
    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-   <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js">
-   </script>
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js"></script>
    <title>Population Chart</title>
 </head>
 <body>
-   <h1 style="color: green;">
-      Welcome To Tutorials Point
-   </h1>
-   <div style="width: 800; height: 600">
+   <div style="width: 100%; height: 100%">
       <canvas id="bar-chart">
       </canvas>
    </div>
 <script>
    getData();
    async function getData() {
-      const response = await fetch('./archive/Game_data_nomonth.json');
+      const response = await fetch('/archive/Game_data.json');
       const data = await response.json();
       //console.log(data);
       //length = data.data.length;
@@ -30,13 +32,13 @@
       values = [];
 
       for (i = 0; i < data.length; i++) {
-         // Check to see if entry exists within labels array
-         if (!labels.includes(data[i].Initial_release)) {
-            labels.push(data[i].Initial_release);
+         // Check to see if Genre exists within labels array
+         if (!labels.includes(data[i].Genre)) {
+            labels.push(data[i].Genre);
             let sum = data[i].Revenue;
-            // Add all similar revenues together
+            // Add all similar genre revenues together
             for (j = 0; j < data.length; j++) {
-               if (data[i].Initial_release == data[j].Initial_release) {
+               if (data[i].Genre == data[j].Genre) {
                   sum += data[i].Revenue;
                }
             }
@@ -82,7 +84,7 @@
             legend: { display: false },
             title: {
                display: true,
-               text: 'Initial Release Date Sort'
+               text: 'Ranked Grossing Genres'
             }
          }
       });
