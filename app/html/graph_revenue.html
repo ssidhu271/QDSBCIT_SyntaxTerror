@@ -5,22 +5,25 @@
 <head>
    <meta charset="utf-8">
    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+   <!--CSS Links-->
+   <link href="/public/css/styles.css" rel="stylesheet">
+   <link href="/public/css/bootstrap.css" rel="stylesheet">
+   <link href="/public/css/our_bootstrap.css" rel="stylesheet">
+
    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js"></script>
    <title>Population Chart</title>
 </head>
 <body>
-   <h1 style="color: green;">
-      Welcome To Tutorials Point
-   </h1>
-   <div style="width: 800; height: 600">
+   <div style="width: 100%; height: 100%">
       <canvas id="bar-chart">
       </canvas>
    </div>
 <script>
    getData();
    async function getData() {
-      const response = await fetch('./archive/Game_data_Top5.json');
+      const response = await fetch('/archive/Game_data_Top5.json');
       const data = await response.json();
       //console.log(data);
       //length = data.data.length;
