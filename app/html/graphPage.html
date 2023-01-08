@@ -3,7 +3,7 @@
     
         <head>
         <meta charset="utf-8">
-        <link href="/public/img/gameControllerIconWhite.png" rel="icon" type="image/png">
+        <link href="/public/img/statsIconWhite.png" rel="icon" type="image/png">
         
         <!--CSS Links-->
         <link href="/public/css/styles.css" rel="stylesheet">
@@ -42,6 +42,8 @@
 
         <body>  
 
+      
+
         <!--Social media icon imports-->
         <svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
         
@@ -59,7 +61,7 @@
         <!--Navbar-->
         <div id="nav">
         <nav class="navbar navbar-expand-lg navbar-light sticky-top" style="background-image: url(/public/img/protoBackg.png); font-family: norwesterParagraph; margin-bottom: 8%;">
-          <a class="navbar-brand" style="padding-left: 8%; font-size: 250%;" href="coverPage.html">mobiRanker</a>
+          <a class="navbar-brand" style="padding-left: 8%; font-size: 250%; padding-right: 25%;" href="coverPage.html"><img src="/public/img/statsIcon.png" style="width:5%; height:5%; padding-bottom: 1.6%;">mobiRanker</a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
@@ -101,8 +103,8 @@
           </div>
 
         <!--Cards--> 
-              <div class="container-xl flex-wrap " style="padding-bottom: 5%; padding-top: 5%;font-family: norwesterParagraph;">
-                <div class="row">
+              <div class="container-xl flex-wrap " style="padding-bottom: 5%; padding-top: 5%;;font-family: norwesterParagraph;">
+                <div id="cardRow" class="row">
                     <div class="card" style="width:33%; background-image: url(/public/img/protoBackg.png);">
                       <iframe id="iframe1" src="graph_revenue.html"></iframe>
                       </div>
